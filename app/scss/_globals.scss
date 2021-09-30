@@ -1,0 +1,22 @@
+html {
+  font-size: 100%;
+  box-sizing: border-box;
+}
+
+*,
+*::before,
+*::after {
+  box-sizing: inherit;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  line-height: 1.3;
+  font-family: "Red Hat Display", sans-serif;
+  background-color: $pale_blue;
+  background-image: url("/images/pattern-background-desktop.svg");
+  background-position: top;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
