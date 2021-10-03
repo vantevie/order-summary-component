@@ -17,6 +17,7 @@
 /design
 README-template.md
 style-guide.md
+/app
 
 # Created by https://www.toptal.com/developers/gitignore/api/sass,node,windows
 # Edit at https://www.toptal.com/developers/gitignore?templates=sass,node,windows
